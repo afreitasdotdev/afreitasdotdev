@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+</p>
+
+[![Freitas github stats](https://github-readme-stats.vercel.app/api?username=afreitasdotdev&count_private=true)](https://github.com/afreitasdotdev/)
+
+
 <!--
 **afreitasdotdev/afreitasdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
