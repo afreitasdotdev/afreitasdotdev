@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-    [![Freitas github stats](https://github-readme-stats.vercel.app/api?username=afreitasdotdev&count_private=true)](https://github.com/afreitasdotdev/)
+[![Freitas github stats](https://github-readme-stats.vercel.app/api?username=afreitasdotdev&count_private=true)](https://github.com/afreitasdotdev/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afreitasdotdev)](https://github.com/afreitasdotdev)
+
 
 <!--
 **afreitasdotdev/afreitasdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
