@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-<a href="https://github.com/anuraghazra/afreitasdotdev">
+<a href="https://github.com/afreitasdotdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=afreitasdotdev&count_private=true" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afreitasdotdev)](https://github.com/afreitasdotdev)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afreitasdotdev)](https://github.com/afreitasdotdev) -->
 
 <!--
 **afreitasdotdev/afreitasdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
