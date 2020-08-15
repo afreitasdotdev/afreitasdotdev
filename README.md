@@ -15,7 +15,7 @@
 <p align="left">
   I'm a graduating in Systems Analysis and Development and work with Devops at South System. I talk about devops, infrastructure and my dev journey. Dev enthusiast and in love with Python. 
 </p>
-<h5 align="left">
+<h5 align="center">
   📌  Living in <b>Palhoça</b>, <b>Santa Catarina</b>, <b>Brazil</b>  
 </h5>
-<h5 align="left">💻 Linux | Docker | IaC | Python | VoIP</h5>
+<h5 align="center">💻 Linux | Docker | IaC | Python | VoIP</h5>
